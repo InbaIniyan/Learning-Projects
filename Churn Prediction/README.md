@@ -87,7 +87,7 @@ To run this project on your local environment, follow these steps:
 
 Ensure you have the required libraries installed. You can install them using pip:
 ```bash
-pip install pandas matplotlib wordcloud scikit-learn
+pip install pandas matplotlib seaborn wordcloud scikit-learn
 ```
 ### 2. Dataset
 Download the dataset 'spam.csv' and place it in the project directory.
