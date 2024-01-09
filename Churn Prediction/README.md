@@ -91,7 +91,7 @@ Ensure you have the required libraries installed. You can install them using pip
 pip install pandas matplotlib seaborn wordcloud scikit-learn
 ```
 ### 2. Dataset
-Download the dataset 'spam.csv' and place it in the project directory.
+Download the dataset ![spam.csv](spam.csv) and place it in the project directory.
 
 ### 3. Execute the Code
 Execute the provided Python script to run the project.
