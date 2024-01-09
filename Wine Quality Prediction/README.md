@@ -104,7 +104,7 @@ To run this project on your local environment, follow these steps:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
    ```
-2. Download the ![Wine Quality Dataset](winequality-red.csv) and place it in the directory.
+2. Download the ![WineQuality.csv](WineQuality.csv) and place it in the directory.
 3. Execute the provided Python script to run the project.
 
 ### Future Work
