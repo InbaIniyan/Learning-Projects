@@ -7,26 +7,20 @@
 <!-- Badges -->
 <p align="center">
 
+  <!-- Made With -->
+  <img src="https://img.shields.io/badge/Made%20With-Jupyter%20Notebook-orange.svg" alt="Made with Jupyter Notebook">
+
   <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
   
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/InbaIniyan/learning-projects" alt="Last Commit">
 
-  <!-- Made With -->
-  <img src="https://img.shields.io/badge/Made%20With-Jupyter%20Notebook-orange.svg" alt="Made with Jupyter Notebook">
-
   <!-- Issues -->
   <img src="https://img.shields.io/github/issues/InbaIniyan/learning-projects" alt="GitHub Issues">
 
   <!-- Pull Requests -->
   <img src="https://img.shields.io/github/issues-pr/InbaIniyan/learning-projects" alt="GitHub Pull Requests">
-
-  <!-- Code Size -->
-  <img src="https://img.shields.io/github/languages/code-size/InbaIniyan/learning-projects" alt="Code Size">
-
-  <!-- Language Count -->
-  <img src="https://img.shields.io/github/languages/count/InbaIniyan/learning-projects" alt="Language Count">
 
   <!-- Contributors -->
   <img src="https://img.shields.io/github/contributors/InbaIniyan/learning-projects" alt="GitHub Contributors">
