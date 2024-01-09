@@ -112,7 +112,7 @@ To run this project on your local environment, follow these steps:
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn
    ```
-2. Download the dataset 'diabetes.csv' and place it in the directory.
+2. Download the dataset ![diabetes.csv](diabetes.csv) and place it in the directory.
 3. Execute the provided Python script to run the project.
 
 ## Future Work
