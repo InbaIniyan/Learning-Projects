@@ -89,8 +89,8 @@ Ensure you have the required libraries installed. You can install them using pip
 ```bash
 pip install pandas matplotlib wordcloud scikit-learn
 ```
-###2. Dataset
+### 2. Dataset
 Download the dataset 'spam.csv' and place it in the project directory.
 
-###3. Execute the Code
+### 3. Execute the Code
 Execute the provided Python script to run the project.
