@@ -62,7 +62,7 @@ The trained model is evaluated on the test data to assess its performance. Metri
 
 A heatmap of the confusion matrix visually represents the model's performance in terms of true positives, true negatives, false positives, and false negatives.
 
-![Confusion Matrix Heatmap](Confusion_Matrix_Heatmap.png)
+![Confusion Matrix Heatmap](Diabetes%20Prediction/Confusion_Matrix_Heatmap.png)
 
 #### (ii) ROC Curve
 
