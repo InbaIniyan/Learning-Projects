@@ -6,9 +6,36 @@
 
 <!-- Badges -->
 <p align="center">
+
+  <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
+  
+  <!-- Made With -->
   <img src="https://img.shields.io/badge/Made%20With-Passion-red.svg" alt="Made with Passion">
+
+  <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/InbaIniyan/learning-projects" alt="Last Commit">
+
+  <!-- Made With -->
+  <img src="https://img.shields.io/badge/Made%20With-Jupyter%20Notebook-orange.svg" alt="Made with Jupyter Notebook">
+
+  <!-- Version -->
+  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Project Version">
+
+  <!-- Issues -->
+  <img src="https://img.shields.io/github/issues/InbaIniyan/learning-projects" alt="GitHub Issues">
+
+  <!-- Pull Requests -->
+  <img src="https://img.shields.io/github/issues-pr/InbaIniyan/learning-projects" alt="GitHub Pull Requests">
+
+  <!-- Contributors -->
+  <img src="https://img.shields.io/github/contributors/InbaIniyan/learning-projects" alt="GitHub Contributors">
+
+  <!-- Code Size -->
+  <img src="https://img.shields.io/github/languages/code-size/InbaIniyan/learning-projects" alt="Code Size">
+
+  <!-- Language Count -->
+  <img src="https://img.shields.io/github/languages/count/InbaIniyan/learning-projects" alt="Language Count">
 </p>
 
 <!-- Table of Contents -->
