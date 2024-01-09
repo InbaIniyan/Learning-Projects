@@ -1,4 +1,4 @@
-# Spam Detection Project
+# Churn Prediction Project
 
 ## Project Overview
 
@@ -94,3 +94,13 @@ Download the dataset 'spam.csv' and place it in the project directory.
 
 ### 3. Execute the Code
 Execute the provided Python script to run the project.
+
+### Future Work
+
+1. **Feature Engineering:** Exploring additional features, such as sender information or email metadata, could enhance the model's ability to distinguish between ham and spam.
+
+2. **Model Optimization:** Experimenting with other machine learning algorithms and optimizing hyperparameters may further improve the model's performance.
+
+3. **Deployment:** Consideration for deploying the model in a real-world scenario, perhaps as part of an email filtering system, could be a valuable next step.
+
+This project serves as a foundation for continued exploration and improvement in the field of spam detection. Contributions, feedback, and collaboration are welcome as we strive to create more effective and efficient models for identifying and mitigating spam emails.
