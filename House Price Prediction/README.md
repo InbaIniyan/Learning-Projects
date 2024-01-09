@@ -93,7 +93,7 @@ To run this project on your local environment, follow these steps:
    ```bash
    pip install numpy pandas matplotlib seaborn scikit-learn
    ```
-2. Download the dataset 'house_price_prediction.csv' and place it in the project directory.
+2. Download the dataset ![house_price_prediction.csv](house_price_prediction.csv) and place it in the project directory.
 
 3. Execute the provided Python script to run the project.
 
