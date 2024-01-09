@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
   <img src="https://img.shields.io/badge/Made%20With-Passion-red.svg" alt="Made with Passion">
-  <img src="https://img.shields.io/github/license/your-username/learning-projects" alt="License">
+  <img src="https://img.shields.io/github/last-commit/your-username/learning-projects" alt="Last Commit">
 </p>
 
 <!-- Table of Contents -->
@@ -70,7 +70,8 @@ The overarching goal of this repository is to meticulously document my evolution
 <!-- Contribution Section -->
 ## 🤝 Contribution
 
-Contributions, feedback, and suggestions are highly encouraged. Let's learn and grow together!
+Enthusiastic contributions, constructive feedback, and insightful suggestions are warmly welcomed. In fostering a collaborative environment, we aim to cultivate a community of learners where collective knowledge and expertise thrive. Together, let us embark on a journey of mutual growth and knowledge enhancement.
+
 
 ---
 
