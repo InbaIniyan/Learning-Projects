@@ -95,7 +95,7 @@ Download the dataset 'spam.csv' and place it in the project directory.
 ### 3. Execute the Code
 Execute the provided Python script to run the project.
 
-### Future Work
+## Future Work
 
 1. **Feature Engineering:** Exploring additional features, such as sender information or email metadata, could enhance the model's ability to distinguish between ham and spam.
 
