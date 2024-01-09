@@ -35,21 +35,7 @@
   <img src="https://img.shields.io/badge/Documentation-Swagger-blue.svg" alt="Documentation - Swagger">
 
   <!-- Community - Stack Overflow -->
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?label=Stack%20Overflow&style=flat&logo=stackoverflow" alt="Stack Overflow">
-
-  <!-- Code Editor - VS Code -->
-  <img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-blue.svg" alt="Code Editor - VS Code">
-
-  <!-- Dev.to - Blog -->
-  <img src="https://img.shields.io/badge/Blog-Dev.to-black.svg" alt="Dev.to - Blog">
-
-  <!-- Platform - Windows -->
-  <img src="https://img.shields.io/badge/Platform-Windows-0078d6.svg" alt="Platform - Windows">
-
-  <!-- Browser Support - Chrome -->
-  <img src="https://img.shields.io/badge/Browser%20Support-Chrome-4285F4.svg" alt="Browser Support - Chrome">
-
-
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/23217851?label=Stack%20Overflow&style=flat&logo=stackoverflow" alt="Stack Overflow">
   
 </p>
 
