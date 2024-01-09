@@ -10,6 +10,12 @@
   <!-- Made With -->
   <img src="https://img.shields.io/badge/Made%20With-Jupyter%20Notebook-orange.svg" alt="Made with Jupyter Notebook">
 
+  <!-- Machine Learning - Scikit-learn -->
+  <img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E.svg" alt="Machine Learning - Scikit-learn">
+
+  <!-- Data Science - Jupyter Notebook -->
+  <img src="https://img.shields.io/badge/Data%20Science-Jupyter%20Notebook-F37626.svg" alt="Data Science - Jupyter Notebook">
+
   <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
   
@@ -24,15 +30,6 @@
 
   <!-- Contributors -->
   <img src="https://img.shields.io/github/contributors/InbaIniyan/learning-projects" alt="GitHub Contributors">
-
-  <!-- Project Age - Since Date -->
-  <img src="https://img.shields.io/date/1672530000?label=Project%20Age&style=flat&logo=calver" alt="Project Age">
-
-  <!-- Code Style - Prettier -->
-  <img src="https://img.shields.io/badge/Code%20Style-Prettier-ff69b4.svg" alt="Code Style - Prettier">
-
-  <!-- Documentation - Swagger -->
-  <img src="https://img.shields.io/badge/Documentation-Swagger-blue.svg" alt="Documentation - Swagger">
 
   <!-- Community - Stack Overflow -->
   <img src="https://img.shields.io/stackexchange/stackoverflow/r/23217851?label=Stack%20Overflow&style=flat&logo=stackoverflow" alt="Stack Overflow">
