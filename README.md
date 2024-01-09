@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
   <img src="https://img.shields.io/badge/Made%20With-Passion-red.svg" alt="Made with Passion">
-  <img src="https://img.shields.io/github/last-commit/your-username/learning-projects" alt="Last Commit">
+  <img src="https://img.shields.io/github/last-commit/InbaIniyan/learning-projects" alt="Last Commit">
 </p>
 
 <!-- Table of Contents -->
