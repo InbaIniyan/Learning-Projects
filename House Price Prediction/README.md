@@ -83,3 +83,34 @@ The House Price Prediction project concludes with a thorough evaluation of the m
 
 4. **Outlier Analysis:**
    - The removal of outliers had a positive impact on model robustness. By addressing extreme data points, the model's stability and generalization to new data were improved, showcasing the importance of outlier handling in regression tasks.
+
+## How to Run
+
+To run this project on your local environment, follow these steps:
+
+1. Ensure you have the required libraries installed. You can install them using pip:
+
+   ```bash
+   pip install numpy pandas matplotlib seaborn scikit-learn
+   ```
+2. Download the dataset 'house_price_prediction.csv' and place it in the project directory.
+
+3. Execute the provided Python script to run the project.
+
+## Future Work
+
+### 1. Feature Engineering:
+
+Explore additional features or transformations to further enhance the model's predictive power. This could include creating new features based on existing ones, incorporating external datasets, or exploring advanced techniques like polynomial features.
+
+### 2. Model Optimization:
+
+Experiment with different regression algorithms and hyperparameter configurations for continuous model improvement. Consider trying more advanced models such as decision trees, random forests, or gradient boosting to capture complex relationships within the data.
+
+### 3. Deployment:
+
+Explore the possibility of deploying the trained model in a real-world setting for practical applications. This could involve integrating the model into a web application, mobile app, or any platform where users can interact with and benefit from the predictive capabilities of the model.
+
+### 4. Continuous Monitoring:
+
+Implement a system for continuous model monitoring and updating based on new data. Regularly assess the model's performance over time, and if necessary, retrain the model with fresh data to ensure it remains accurate and relevant.
