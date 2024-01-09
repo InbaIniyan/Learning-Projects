@@ -10,11 +10,17 @@
   <!-- Made With -->
   <img src="https://img.shields.io/badge/Made%20With-Jupyter%20Notebook-orange.svg" alt="Made with Jupyter Notebook">
 
+  <!-- Data Visualization - Matplotlib -->
+  <img src="https://img.shields.io/badge/Data%20Viz-Matplotlib-11557C.svg" alt="Data Visualization - Matplotlib">
+
+  <!-- Data Exploration - Seaborn -->
+  <img src="https://img.shields.io/badge/Data%20Exploration-Seaborn-4EABD3.svg" alt="Data Exploration - Seaborn">
+
+   <!-- Data Analysis - Pandas -->
+  <img src="https://img.shields.io/badge/Data%20Science-Pandas-150458.svg" alt="Data Science - Pandas">
+
   <!-- Machine Learning - Scikit-learn -->
   <img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E.svg" alt="Machine Learning - Scikit-learn">
-
-  <!-- Data Analysis - Pandas -->
-  <img src="https://img.shields.io/badge/Data%20Science-Pandas-150458.svg" alt="Data Science - Pandas">
 
   <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
@@ -25,14 +31,6 @@
   <!-- Issues -->
   <img src="https://img.shields.io/github/issues/InbaIniyan/learning-projects" alt="GitHub Issues">
 
-  <!-- Pull Requests -->
-  <img src="https://img.shields.io/github/issues-pr/InbaIniyan/learning-projects" alt="GitHub Pull Requests">
-
-  <!-- Contributors -->
-  <img src="https://img.shields.io/github/contributors/InbaIniyan/learning-projects" alt="GitHub Contributors">
-
-  <!-- Community - Stack Overflow -->
-  <img src="https://img.shields.io/stackexchange/stackoverflow/r/23217851?label=Stack%20Overflow&style=flat&logo=stackoverflow" alt="Stack Overflow">
   
 </p>
 
