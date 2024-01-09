@@ -24,6 +24,33 @@
 
   <!-- Contributors -->
   <img src="https://img.shields.io/github/contributors/InbaIniyan/learning-projects" alt="GitHub Contributors">
+
+  <!-- Project Age - Since Date -->
+  <img src="https://img.shields.io/date/1672530000?label=Project%20Age&style=flat&logo=calver" alt="Project Age">
+
+  <!-- Code Style - Prettier -->
+  <img src="https://img.shields.io/badge/Code%20Style-Prettier-ff69b4.svg" alt="Code Style - Prettier">
+
+  <!-- Documentation - Swagger -->
+  <img src="https://img.shields.io/badge/Documentation-Swagger-blue.svg" alt="Documentation - Swagger">
+
+  <!-- Community - Stack Overflow -->
+  <img src="https://img.shields.io/stackexchange/stackoverflow/r/1234567?label=Stack%20Overflow&style=flat&logo=stackoverflow" alt="Stack Overflow">
+
+  <!-- Code Editor - VS Code -->
+  <img src="https://img.shields.io/badge/Code%20Editor-VS%20Code-blue.svg" alt="Code Editor - VS Code">
+
+  <!-- Dev.to - Blog -->
+  <img src="https://img.shields.io/badge/Blog-Dev.to-black.svg" alt="Dev.to - Blog">
+
+  <!-- Platform - Windows -->
+  <img src="https://img.shields.io/badge/Platform-Windows-0078d6.svg" alt="Platform - Windows">
+
+  <!-- Browser Support - Chrome -->
+  <img src="https://img.shields.io/badge/Browser%20Support-Chrome-4285F4.svg" alt="Browser Support - Chrome">
+
+
+  
 </p>
 
 <!-- Table of Contents -->
