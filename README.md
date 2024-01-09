@@ -13,8 +13,8 @@
   <!-- Machine Learning - Scikit-learn -->
   <img src="https://img.shields.io/badge/ML-Scikit--learn-F7931E.svg" alt="Machine Learning - Scikit-learn">
 
-  <!-- Data Science - Jupyter Notebook -->
-  <img src="https://img.shields.io/badge/Data%20Science-Jupyter%20Notebook-F37626.svg" alt="Data Science - Jupyter Notebook">
+  <!-- Data Analysis - Pandas -->
+  <img src="https://img.shields.io/badge/Data%20Science-Pandas-150458.svg" alt="Data Science - Pandas">
 
   <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
