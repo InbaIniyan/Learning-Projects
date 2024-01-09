@@ -10,17 +10,11 @@
   <!-- Project Status -->
   <img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Project Status: Active">
   
-  <!-- Made With -->
-  <img src="https://img.shields.io/badge/Made%20With-Passion-red.svg" alt="Made with Passion">
-
   <!-- Last Commit -->
   <img src="https://img.shields.io/github/last-commit/InbaIniyan/learning-projects" alt="Last Commit">
 
   <!-- Made With -->
   <img src="https://img.shields.io/badge/Made%20With-Jupyter%20Notebook-orange.svg" alt="Made with Jupyter Notebook">
-
-  <!-- Version -->
-  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Project Version">
 
   <!-- Issues -->
   <img src="https://img.shields.io/github/issues/InbaIniyan/learning-projects" alt="GitHub Issues">
