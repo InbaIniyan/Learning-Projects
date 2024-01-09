@@ -53,6 +53,15 @@ The trained model is used to make predictions on the test set, classifying email
 The accuracy of the model is calculated using `accuracy_score`, and a detailed classification report is generated using `classification_report`. These metrics provide a comprehensive assessment of the model's performance on the test set.
 
 ```python
-Accuracy: [accuracy]
+Accuracy: 0.9838565022421525
 Classification Report:
-[classification report]
+
+ precision    recall  f1-score   support
+
+         ham       0.98      1.00      0.99       965
+        spam       0.99      0.89      0.94       150
+
+    accuracy                           0.98      1115
+   macro avg       0.98      0.95      0.96      1115
+weighted avg       0.98      0.98      0.98      1115
+
