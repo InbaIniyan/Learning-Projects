@@ -77,7 +77,7 @@ To run this project on your local environment, follow these steps:
    ```bash
    pip install numpy pandas matplotlib seaborn wordcloud scikit-learn
    ```
-2. Download the dataset 'Tweets.csv' and place it in the directory.
+2. Download the dataset ![Tweets.csv](Tweets.csv) and place it in the directory.
 3. Execute the provided Python script to run the project.
 
 
