@@ -77,7 +77,7 @@ Iris-versicolor       1.00      0.89      0.94         9
 3.) Accuracy: 96.67%
 ```
 
-## Overall Conclusion
+## Conclusion
 
 The Iris Species Classification project successfully implemented a Support Vector Classifier (SVC) with a linear kernel to predict iris species based on sepal and petal characteristics. Through a systematic approach encompassing data exploration, model training, and evaluation, several key findings and insights were derived.
 
