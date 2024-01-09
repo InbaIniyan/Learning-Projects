@@ -61,6 +61,7 @@ The trained model is evaluated on the test data to assess its performance. Metri
 #### (i) Confusion Matrix Heatmap
 
 A heatmap of the confusion matrix visually represents the model's performance in terms of true positives, true negatives, false positives, and false negatives.
+![Confusion Matrix Heatmap](Confusion_Matrix_Heatmap.png)
 
 #### (ii) ROC Curve
 
