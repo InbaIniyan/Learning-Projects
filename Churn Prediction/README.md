@@ -54,9 +54,10 @@ The accuracy of the model is calculated using `accuracy_score`, and a detailed c
 
 ```python
 Accuracy: 0.9838565022421525
+
 Classification Report:
 
- precision    recall  f1-score   support
+              precision    recall  f1-score   support
 
          ham       0.98      1.00      0.99       965
         spam       0.99      0.89      0.94       150
