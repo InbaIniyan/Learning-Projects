@@ -79,3 +79,13 @@ In conclusion, this project successfully implemented a spam detection model usin
 
 4. **Model Performance:** The implemented Multinomial Naive Bayes model demonstrated [accuracy]% accuracy on the test set, as indicated in the classification report. Further fine-tuning and experimentation with different models or hyperparameters could enhance performance.
 
+## How to Run
+
+To run this project on your local environment, follow these steps:
+
+### 1. Prerequisites
+
+Ensure you have the required libraries installed. You can install them using pip:
+```bash
+pip install pandas matplotlib wordcloud scikit-learn
+```
