@@ -36,26 +36,34 @@ The trained model is put to the test, visualizing its predictions against actual
 
 #### a) Feature Importance
 - The significance of each feature in predicting the target variable is visualized through a bar plot. This provides valuable insights into which features play a crucial role in determining house prices.
+
   ![Feature Importance](feature_importance.png)
 
 #### b) Residual Analysis
 - Residuals, the differences between predicted and actual values, are analyzed using a scatter plot. Understanding residuals aids in identifying patterns or anomalies in the model's predictions.
+
   ![Residual Analysis](residual_analysis.png)
 
 #### c) Model Performance Comparison
 - The performance of the Linear Regression model is compared with Decision Tree and Random Forest models. This comparison helps in understanding how different algorithms perform on the given dataset.
+
   ![Model Performance Comparison](comparison.png)
 
 #### d) Cross-Validation Results
 - Cross-validation is employed to assess the model's generalization performance. Root Mean Squared Error (RMSE) scores are visualized to provide a comprehensive view of the model's consistency across different folds of the data.
+
   ![CV Results](cv.png)
 
 #### e) Feature Engineering Insights
 - The impact of feature engineering, such as creating a new feature 'total_rooms', on model performance is evaluated. This step explores how additional features can enhance predictive power.
-  ![Feature Engineering](feature_engineering.png)
+
+  ```python
+  Root Mean Squared Error with Feature Engineering: 273394.6285434443
+  ```
 
 #### f) Outlier Analysis
 - A box plot is generated to visualize the distribution of house prices. Outliers are identified and removed using the Interquartile Range (IQR) method, and the model is re-evaluated without outliers.
+
   ![Outlier Analysis](outlier_analysis.png)
 
 ## Conclusion
