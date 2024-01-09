@@ -89,7 +89,7 @@ In conclusion, the Diabetes Prediction project embarked on a journey to develop 
 ### Key Findings:
 
 1. **Exploratory Data Analysis (EDA):**
-   - The EDA phase uncovered crucial insights into the dataset, revealing distributions, correlations, and patterns within the features. Noteworthy findings included [mention specific findings, e.g., relationships between certain features, outliers detected, etc.].
+   - The EDA phase uncovered crucial insights into the dataset, revealing distributions, correlations, and patterns within the features.
 
 2. **Data Preprocessing and Model Building:**
    - The dataset was preprocessed, involving the standardization of features and the division of data into training and testing sets. The Random Forest Classifier was chosen for its adaptability and demonstrated efficiency in classification tasks.
