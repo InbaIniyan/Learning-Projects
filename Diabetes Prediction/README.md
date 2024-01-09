@@ -68,10 +68,16 @@ A heatmap of the confusion matrix visually represents the model's performance in
 
 The Receiver Operating Characteristic (ROC) curve is plotted to assess the trade-off between true positive and false positive rates at different classification thresholds.
 
+![ROC Curve](ROC.png)
+
 #### (iii) Precision-Recall Curve
 
 The Precision-Recall curve is generated to analyze the precision-recall trade-off. This curve is particularly informative when dealing with imbalanced datasets.
 
+![PR Curve](PR_Curve.png)
+
 #### (iv) Probability Distribution
 
 Histograms of predicted probabilities for both classes are plotted. This step provides insights into the distribution of model predictions, aiding in understanding the model's confidence in its classifications.
+
+![Probability Distribution](PD.png)
