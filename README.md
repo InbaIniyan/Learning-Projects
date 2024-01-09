@@ -18,15 +18,13 @@
   <a href="#-objective">Objective</a> •
   <a href="#-goals">Goals</a> •
   <a href="#-project-highlights">Project Highlights</a> •
-  <a href="#-future-projects">Future Projects</a> •
   <a href="#-contribution">Contribution</a> •
-  <a href="#-license">License</a>
 </p>
 
 <!-- Objective Section -->
 ## 🎯 Objective
 
-The primary aim is to showcase my journey, from learning to practical application, and build a vibrant portfolio in the realm of data science and machine learning.
+The overarching goal of this repository is to meticulously document my evolutionary journey, spanning from the acquisition of foundational knowledge to its practical application. Through an unwavering commitment to excellence in the realm of data science and machine learning, I aspire to construct an illustrious portfolio that reflects not only my technical prowess but also my dedication to continuous learning and innovation.
 
 <!-- Goals Section -->
 ## 🌟 Goals
@@ -68,20 +66,11 @@ The primary aim is to showcase my journey, from learning to practical applicatio
 
    [Wine Quality Prediction Project Details](Wine%20Quality%20Prediction/README.md)
 
-<!-- Future Projects Section -->
-## 🚀 Future Projects
-
-Stay tuned for exciting new projects on the horizon! 🌈
 
 <!-- Contribution Section -->
 ## 🤝 Contribution
 
 Contributions, feedback, and suggestions are highly encouraged. Let's learn and grow together!
-
-<!-- License Section -->
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
