@@ -43,7 +43,7 @@ A function is created to predict the overall sentiment of a set of example texts
 The performance of the sentiment analysis model is evaluated using classification metrics such as precision, recall, and F1-score. These metrics provide a comprehensive understanding of the model's ability to correctly classify sentiments.
 
 ```python
- precision    recall  f1-score   support
+              precision    recall  f1-score   support
 
            0       0.80      0.95      0.87      1889
            1       0.68      0.41      0.51       580
