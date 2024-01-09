@@ -22,14 +22,14 @@
   <!-- Pull Requests -->
   <img src="https://img.shields.io/github/issues-pr/InbaIniyan/learning-projects" alt="GitHub Pull Requests">
 
-  <!-- Contributors -->
-  <img src="https://img.shields.io/github/contributors/InbaIniyan/learning-projects" alt="GitHub Contributors">
-
   <!-- Code Size -->
   <img src="https://img.shields.io/github/languages/code-size/InbaIniyan/learning-projects" alt="Code Size">
 
   <!-- Language Count -->
   <img src="https://img.shields.io/github/languages/count/InbaIniyan/learning-projects" alt="Language Count">
+
+  <!-- Contributors -->
+  <img src="https://img.shields.io/github/contributors/InbaIniyan/learning-projects" alt="GitHub Contributors">
 </p>
 
 <!-- Table of Contents -->
