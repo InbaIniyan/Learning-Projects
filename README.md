@@ -41,7 +41,7 @@
   <a href="#-objective">Objective</a> •
   <a href="#-goals">Goals</a> •
   <a href="#-project-highlights">Project Highlights</a> •
-  <a href="#-contribution">Contribution</a> •
+  <a href="#-contribution">Contribution</a> 
 </p>
 
 <!-- Objective Section -->
