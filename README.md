@@ -89,6 +89,10 @@ The overarching goal of this repository is to meticulously document my evolution
 
    [Wine Quality Prediction Project Details](Wine%20Quality%20Prediction)
 
+### 7. Bitcoin Price Prediction using LSTM
+   Predict future Bitcoin prices based on past data. We collect historical price information, including factors like opening and closing prices. Using Long Short-Term Memory (LSTM), a special kind of neural network for sequences, the model learns patterns from the historical data during training. After training, we test the model on new data to see how well it predicts future prices. The process is iterative, allowing us to improve and refine the model over time as more data becomes available.
+
+   [Bitcoin Price Prediction Project Details](Bitcoin%20Price%20Prediction)
 
 <!-- Contribution Section -->
 ## 🤝 Contribution
